@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" > 
+
+<title>Solutions</title>
+
+	<link href="@Url.Content("~/Content/reset.css")" rel="stylesheet" type="text/css" />
+	<link href="@Url.Content("~/Content/typography.css")" rel="stylesheet" type="text/css" />
+	<link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/InnerStyle.css")" rel="stylesheet" type="text/css" />
+</head>
+<body id="body">
+<div id="top_div">
+	<div id="top_content">
+		<div id="logo">
+			<h1>AppHarbor Demo<h1>
+			<h4>A quick intro</h4>
+		</div>
+	</div>
+</div>
+<div class="menu">
+		<div class="menu_content">
+			<ul>
+                <li><a href="/">Main</a></li>
+            </ul>
+		</div>
+</div>
+
+<div id="page">
+	<div id="page_content">
+		 @RenderBody()
+	</div>	
+</div>
+<div id="bottom">
+	<div id="bottom_content">
+		@RenderSection("Footer", required: false)
+	</div>
+</div>
+</body>
+</html>
+

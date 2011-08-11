@@ -1,0 +1,14 @@
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\QADAppharborDemo.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\QADAppharborDemo.pdb
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\EntityFramework.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.Web.Mvc.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\WebActivator.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\EntityFramework.xml
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.pdb
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.xml
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.Web.Mvc.pdb
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\bin\Ninject.Web.Mvc.xml
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\obj\Debug\QADAppharborDemo.dll
+C:\!Dev\CurrentProjects\PRESENTATIONS\QADAppharborDemo\QADAppharborDemo\obj\Debug\QADAppharborDemo.pdb
