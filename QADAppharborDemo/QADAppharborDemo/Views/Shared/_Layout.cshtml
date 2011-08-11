@@ -35,6 +35,7 @@
 <div id="bottom">
 	<div id="bottom_content">
 		@RenderSection("Footer", required: false)
+        @System.Configuration.ConfigurationManager.AppSettings["environment"]
 	</div>
 </div>
 </body>
