@@ -8,20 +8,29 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="493" fromTop="10" />
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Controllers/f:HomeController.cs" caret="277" fromTop="10" />
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Home/f:Index.cshtml" caret="112" fromTop="7" />
-      <File id="DD188911-C691-47F7-9F58-595D9B3AC1EF/f:Class1.cs" caret="318" fromTop="19" />
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/f:Web.config" caret="629" fromTop="17" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="DD188911-C691-47F7-9F58-595D9B3AC1EF/f:SimpleTests.cs" caret="185" fromTop="9" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Home/f:Index.cshtml" caret="161" fromTop="6" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/f:Web.config" caret="473" fromTop="11" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="1060" fromTop="7" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Controllers/f:HomeController.cs" caret="576" fromTop="21" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Data/f:DataAccess.cs" caret="239" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
-      <File id="DD188911-C691-47F7-9F58-595D9B3AC1EF/f:Class1.cs" caret="266" fromTop="12" />
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="1020" fromTop="45" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="1099" fromTop="45" />
       <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="132" fromTop="21" />
       <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="15" fromTop="0" />
       <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="771" fromTop="24" />
       <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="633" fromTop="17" />
-      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Home/f:Index.cshtml" caret="110" fromTop="6" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Data/f:DataAccess.cs" caret="37" fromTop="2" />
+      <File id="DD188911-C691-47F7-9F58-595D9B3AC1EF/f:SimpleTests.cs" caret="295" fromTop="13" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/f:Web.config" caret="608" fromTop="11" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Home/f:Index.cshtml" caret="161" fromTop="6" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Data/f:DataAccess.cs" caret="221" fromTop="10" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Controllers/f:HomeController.cs" caret="351" fromTop="16" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Views/d:Shared/f:_Layout.cshtml" caret="1060" fromTop="7" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/f:Web.config" caret="495" fromTop="11" />
+      <File id="0994BED6-0C01-4586-951D-25C8660DE11A/d:Controllers/f:HomeController.cs" caret="576" fromTop="21" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -37,6 +46,18 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="tm" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="dynamic" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="rndId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@QADAppharborDemo.Data.DataAccess">
+      <Item value="GetRandomQuote`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
